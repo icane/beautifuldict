@@ -1,0 +1,1 @@
+v0.1.0: implemented management of dictionaries as a parameter tree.
