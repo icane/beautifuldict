@@ -7,7 +7,7 @@ setup(
     author='Instituto Cántabro de Estadística',
     author_email='icane@cantabria.es',
     packages=find_packages(),
-    url='https://gitlab.com/icane-tic/beautifuldict.git',
+    url='https://gitlab.com/icane/beautifuldict.git',
     license='Apache License 2.0',
     description='Utils for managing configurations',
     long_description=open('README.rst').read(),
