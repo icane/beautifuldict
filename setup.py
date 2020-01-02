@@ -12,7 +12,7 @@ setup(
     description='Utils for managing configurations',
     long_description=open('README.rst').read(),
     test_suite='beautifuldict.test',
-    keywords=['icane', 'configuration', 'utils'],
+    keywords=['configuration', 'utils'],
     classifiers=[
           'Development Status :: 4 - Beta',
           'Environment :: Console',
@@ -23,5 +23,5 @@ setup(
           'Operating System :: POSIX',
           'Programming Language :: Python',
           'Topic :: Software Development :: Libraries'
-          ],
+          ]
 )
