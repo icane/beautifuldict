@@ -16,6 +16,14 @@ class Baseconfig(dict):
     config.example1     # returns 'hello world'
     config['example1']  # returns 'hello world'
 
+    .. automethod:: __init__
+    .. automethod:: add
+    .. automethod:: __getattr__
+    .. automethod:: __setitem__
+    .. automethod:: __setattr__
+    .. automethod:: clean
+    .. automethod:: __getstate__
+    .. automethod:: __setstate__
     """
 
     def __init__(self, dictionary):
