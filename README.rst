@@ -1,6 +1,6 @@
-**********
+*************
 BeautifulDict
-**********
+*************
 
 :Info: Python package to manage configuration dictionaries.
 :Author: Servicio de Informática y Banco de Datos <sibd@cantabria.es>

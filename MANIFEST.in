@@ -1,5 +1,8 @@
 include AUTHORS.rst
+include CHANGELOG.txt
 include LICENSE.txt
+include Pipfile
+include Pipfile.lock
 include README.rst
 
 include PipFile
@@ -10,5 +13,4 @@ recursive-exclude * *.py[co]
 
 recursive-include tests *
 recursive-include vo *
-recursive-include docs *.rst conf.py Makefile *.jpg *.png *.gif
-
+recursive-include docs *.rst conf.py Makefile
