@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='beautifuldict',
-    version='0.1.0',
-    author='Instituto Cántabro de Estadística',
-    author_email='icane@cantabria.es',
+    version='0.1.1',
+    author='Servicio de Informática y Banco de Datos',
+    author_email='sibd@cantabria.es',
     packages=find_packages(),
     url='https://github.com/icane/beautifuldict.git',
     license='Apache License 2.0',
