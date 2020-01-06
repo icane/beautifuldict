@@ -1,1 +1,2 @@
+v.0.1.0.post1: change author + fix URL of the project
 v0.1.0: implemented management of dictionaries as a parameter tree.
