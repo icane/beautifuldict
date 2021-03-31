@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='beautifuldict',
-    version='0.1.2',
+    version='0.1.3',
     author='Servicio de Informática y Banco de Datos',
     author_email='sibd@cantabria.es',
     packages=find_packages(),
