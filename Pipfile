@@ -7,6 +7,7 @@ verify_ssl = true
 flake8 = "*"
 bandit = "*"
 autopep8 = "*"
+more-itertools = "*"
 pytest = "*"
 flake8-import-order = "*"
 flake8-blind-except = "*"
